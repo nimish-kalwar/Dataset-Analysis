@@ -5,7 +5,7 @@ Analyzing data to extract meaningful insights from it.
 
 * [Methods and Tools](#methods-and-tools)
 * [Conclusion](#Conclusion)
-* [Reference](#Reference)
+* [Acknowledgement](#Acknowledgement)
 * [Contact](#contact)
 
 
@@ -18,10 +18,10 @@ Analyzing data to extract meaningful insights from it.
 
 
 ## Conclusion
-We find out which anime/show is most popular or which is highly rated and in some cases if anime is highly rated it doesn't mean it is popular among viewers.
+We find out which anime/show is most popular or which is highly rated and in some cases if anime is highly rated it doesn't mean it is popular among viewers. We can analyze the ratings to see Anime trend and how the genre can be a trend.
 
-## Reference
-Dataset or csv file which we used is from Kaggle(<a href="https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews">anime.csv</a>).
+## Acknowledgement
+Dataset or csv file which we used is from Kaggle(<a href="https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews">anime.csv</a>). 
 
 ## Contact
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
