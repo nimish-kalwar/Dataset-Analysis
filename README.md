@@ -27,7 +27,7 @@ The dataset contains 3 files:
 
 * profiles.csv contains information about users who watch anime, namely username, birth date, gender, and favorite animes list.
 
-* reviews.csv contains information about reviews users x animes, with text review and scores.
+* reviews.csv contains information about reviews users x animes.
 
 
 ## Conclusion
