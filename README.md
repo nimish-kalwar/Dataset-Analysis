@@ -19,7 +19,7 @@ Analyzing data to extract meaningful insights from it.
 
 ## About Dataset
 
-This dataset contains informations about Anime (16k), Reviews (130k) and Profiles (47k) crawled from https://myanimelist.net/ at 05/01/20.
+This dataset contains information about Anime (16k), Reviews (130k) and Profiles (47k) crawled from https://myanimelist.net/ at 05/01/20.
 
 The dataset contains 3 files:
 
